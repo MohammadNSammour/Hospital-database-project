@@ -1,0 +1,3 @@
+-one project drawio file have two pages
+one named EER for Entity relationship Diagram
+other one named Schema for relational model or logical mapping
